@@ -60,3 +60,4 @@ buck-out/
 
 #windows
 *.binlog
+src/env/env.json
